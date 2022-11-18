@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.preside-ext-snow-fx:">
+	<tab>
+		<fieldset>
+			<field name="amount" control="textInput" required="true" />
+			<field name="duration" control="textInput" required="true"/>
+			<field name="color" control="textInput" required="true"/>
+			<field name="useBgEffect" control="yesNoSwitch" required="false" default="true"/>
+			<field name="snowKind" control="enumSelect" enum="snow_kind" required="true" default="shake"/>
+		</fieldset>
+	</tab>
+</form>
