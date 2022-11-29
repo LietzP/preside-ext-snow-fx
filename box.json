@@ -7,6 +7,7 @@
     "shortDescription": "A small preside extension to add a snow effect to your website.",
     "createPackageDirectory": false,
     "type": "preside-extension",
+    "directory":"application/extensions",
     "location": "https://github.com/LietzP/preside-ext-snow-fx/archive/refs/heads/main.zip",
     "repository": {
       "type": "git",
