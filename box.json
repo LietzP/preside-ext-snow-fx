@@ -1,22 +1,15 @@
 {
-    "name": "PresideCMS Snow FX Extension",
-    "version": "1.0.0",
-    "author": "Philipp Lietz",
-    "slug": "preside-ext-snow-fx",
-    "homepage": "https://github.com/LietzP/preside-ext-snow-fx",
-    "shortDescription": "A small preside extension to add a snow effect to your website.",
-    "createPackageDirectory": false,
+    "name":"PresideCMS Snow FX Extension",
+    "version":"1.0.1",
+    "author":"Philipp Lietz",
+    "slug":"preside-snow@faxi05",
+    "homepage":"https://github.com/LietzP/preside-ext-snow-fx",
+    "shortDescription":"A small preside extension to add a snow effect to your website.",
     "type":"preside-extensions",
     "directory":"application/extensions",
-    "location": "https://github.com/LietzP/preside-ext-snow-fx/archive/refs/heads/main.zip",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/LietzP/preside-ext-snow-fx"
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/blackbucksoftware/preside-ext-snow-fx"
     },
-    "installPaths": {
-      "presidecms": "preside"
-    },
-    "dependencies": {
-      "presidecms": "stable"
-    }
+    "private":"true"
 }
